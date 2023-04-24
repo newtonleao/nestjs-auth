@@ -10,6 +10,10 @@
 
 Antes de iniciar, certifique-se de que você possui um projeto NestJS criado e que a CLI do NestJS está instalada no seu computador.
 
+## Site sinapse Book
+
+https://fabricadesinapse.gitbook.io/sinapse-book/
+
 ## Prisma
 
 ### Instalar o prisma
